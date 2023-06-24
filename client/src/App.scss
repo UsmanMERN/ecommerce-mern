@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair:wght@700&family=Poppins&display=swap");
+
+@import "./scss/bootstrap";
+@import "./scss/header";
+@import "./scss/policy";
+@import "./scss/footer";
+@import "./scss/loader";
+@import "./scss/cart";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+main {
+  flex: 1 0 auto;
+}
+.background-img.home {
+  position: relative;
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  text-align: start;
+  background-image: url("./assets/images/MOOD - Product.png");
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  color: #d62828;
+  background-repeat: no-repeat;
+  width: 100%;
+  // position: relative;
+  padding: 2rem;
+}
+.background-img.other {
+  position: relative;
+  min-height: 20vh;
+  display: flex;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  text-align: start;
+  background-image: url("./assets/images/MOOD - Product.png");
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  color: #d62828;
+  background-repeat: no-repeat;
+  width: 100%;
+  padding: 2rem;
+}
+
+// font-family: 'Playfair', serif;
+// font-family: 'Poppins', sans-serif;
