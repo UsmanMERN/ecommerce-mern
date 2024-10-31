@@ -20,7 +20,7 @@ This repository contains the code for an eCommerce web application built using B
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Usman8531/ecommerce-mern
+   git clone https://github.com/UsmanMERN/ecommerce-mern
    ```
 
 2. Navigate to the project directory:
@@ -41,7 +41,7 @@ This repository contains the code for an eCommerce web application built using B
    npm start
    ```
 
-   The client-side React application will be accessible at `http://localhost:3000`, and the server will run on `http://localhost:5000`.
+   The client-side React application will be accessible at `http://localhost:3000`, and the server will run on `http://localhost:8000`.
 
 5. Configure MongoDB:
 
