@@ -99,7 +99,7 @@ Feel free to reach out if you have any questions or feedback regarding the deplo
 
 ## Acknowledgements
 
-This project was customized and contributed by [Usman8531](https://github.com/Usman8531).
+This project was customized and contributed by [Muhammd Usman](https://github.com/UsmanMERN).
 
 - [Bootstrap](https://getbootstrap.com/)
 - [React](https://reactjs.org/)
