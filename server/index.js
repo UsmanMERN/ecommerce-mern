@@ -29,7 +29,9 @@ const PORT = process.env.PORT || 8080;
 connectDB();
 
 // middleware
-app.use(cors());
+app.use(cors({
+  origin: 'https://ecommerce-mern-eta-two.vercel.app'
+}));
 // app.use(express.json());
 app.use(morgan("dev"));
 // Assuming you are using Express.js
