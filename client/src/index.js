@@ -8,7 +8,8 @@ import AuthContextProvider from "./context/AuthContext";
 import SearchContextProvider from "./context/SearchContext";
 import CartContextProvider from "./context/cartContext";
 // export const PORT = "https://ecommerce-server-obiq.onrender.com";
-export const PORT = "http://localhost:8000";
+export const PORT = "http://16.16.141.219:8000";
+// export const PORT = "http://localhost:8000";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
