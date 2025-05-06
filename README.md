@@ -105,4 +105,4 @@ This project was customized and contributed by [Muhammd Usman](https://github.co
 - [React](https://reactjs.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [Express](https://expressjs.com/)
-- [Node.js](https://nodejs.org/)
+- [Node.js](https://nodejs.org/).
